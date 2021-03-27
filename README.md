@@ -1,6 +1,7 @@
 # climate_app
 
 A climate detail app which can find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+TODO: Use your own apiKey paste it in weather.dart file as a value for apikey variable
 
 ## How it looks
 
