@@ -6,7 +6,7 @@ TODO: Use your own apiKey paste it in weather.dart file as a value for apikey va
 ## How it looks
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+![Finished App](https://github.com/Riyazmansuri/ScreenShots/blob/37dd0144d6f73989a65d1a8327bcc66283b8e979/clima-demo.gif)
 
 ## What I learned
 
